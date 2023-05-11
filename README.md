@@ -1,5 +1,6 @@
  <p align="center"><code>Olá, meu nome é Enoque Neres! </code></p> 
-<p align="center"><code>“Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo” (Martin Luther King Jr)</code></p>
+<p align="center"><code>“Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo” 
+ (Martin Luther King Jr)</code></p>
  
 --- 
 
