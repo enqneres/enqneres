@@ -33,7 +33,6 @@
   
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=enqneres&show_icons=true&count_private=true&theme=radical&hide=issues" />
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enqneres)](https://github.com/anuraghazra/github-readme-stats)
   </a> 
   
 
