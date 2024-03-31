@@ -11,8 +11,8 @@
 ## Formação 🎓
 
 - :books: Tecnólogo em [**Redes de Computadores**](https://estacio.br/cursos/graduacao/redes-de-computadores)
-- :books: Futuro Bacharel em [**Administração**](https://ufdpar.edu.br/)
-- :books: Java 8 / 17 
+- :books: Bacharelado em [**Administração**](https://ufdpar.edu.br/)
+- :books: Desenvolvedor Pleno Java 8 / 17 
 
 ---
 
