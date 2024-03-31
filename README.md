@@ -8,11 +8,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:enoque.sneres@gmail.com)](mailto:enoque.sneres@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enq_neres_/)
 
-## Formação 🎓
+## Formação / Experiência Profissional 🎓
 
-- :books: Tecnólogo em [**Redes de Computadores**](https://estacio.br/cursos/graduacao/redes-de-computadores)
-- :books: Bacharelado em [**Administração**](https://ufdpar.edu.br/)
-- :books: Desenvolvedor Pleno Java 8 / 17 
+- 🎓 Tecnólogo em [**Redes de Computadores**](https://estacio.br/cursos/graduacao/redes-de-computadores)
+- 🎓 Bacharelado em [**Administração**](https://ufdpar.edu.br/)
+- 📚 Programador Full-stack em [**Java Script / Angular**](https://www.sp.senai.br/curso/programador-full-stack/97663) 
+
+- 💻 Desenvolvedor Pleno Java 8 / 17
+- 💻 SysOps
+- 💻 Técnico de Informática
+- 💻 Analista de Suporte Técnico
 
 ---
 
