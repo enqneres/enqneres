@@ -13,7 +13,7 @@
 - 🎓 Tecnólogo em [**Redes de Computadores**](https://estacio.br/cursos/graduacao/redes-de-computadores)
 - 🎓 Bacharelado em [**Administração**](https://ufdpar.edu.br/)
 - 📚 Programador Full-stack em [**Java Script / Angular**](https://www.sp.senai.br/curso/programador-full-stack/97663) 
-
+ ===========================================================================
 - 💻 Desenvolvedor Pleno Java 8 / 17
 - 💻 SysOps
 - 💻 Técnico de Informática
